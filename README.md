@@ -13,7 +13,7 @@ Hovering over a colored bar will show the name of the type, its XY position, and
 
 If you want to start using the app immediately, create an Custom HTML app on your Rally dashboard. Then copy FeatureThroughputApp.html in the deploy folder into the HTML text area. That's it, it should be ready to use.
 
-Or you can just click [here]() to find the file.
+Or you can just click [here](https://raw.github.com/osulehria/rally-feature-throughput/master/deploy/FeatureThroughputApp.html) to find the file.
 
 ##Customize this App
 
