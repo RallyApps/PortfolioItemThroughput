@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- Copyright (c) 2012  Rally Software Development Corp.  All rights reserved -->
+<html>
+<head>
+    <title>FeatureThroughput</title>
+    <meta name="Name" content="App: FeatureThroughput"/>
+    <meta name="Version" content="2012.08.27"/>
+    <meta name="Vendor" content="Rally Software"/>
+    <script type="text/javascript" src="/apps/1.29/sdk.js?debug=true"></script>
+    <script type="text/javascript" src="FeatureThroughput.js"></script>
+    <link rel="stylesheet" href="FeatureThroughput.css" type="text/css">
+    <script type="text/javascript">
+
+        function onLoad() {
+            var featureThroughput = new FeatureThroughput();
+            featureThroughput.display(dojo.body());
+        }
+
+        rally.addOnLoad(onLoad);
+
+    </script>
+</head>
+<body>
+    <div>
+        <span id="type"></span>&nbsp;&nbsp;<span id="numMonths"></span><span id="stacked"></span>
+    </div>
+    <br/><br/>
+    <div id="chart" style="height: 600px; width: 800px"></div>
+    <div id="stories"></div>
+</body>
+</html>
