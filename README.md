@@ -1,11 +1,11 @@
 rally-feature-throughput
-===============
+========================
 
 ![Alt text](https://raw.github.com/osulehria/rally-feature-throughput/master/deploy/screenshot.png)
 
-##What is this?
+##Overview
 
-This is an app that graphs the feature throughput of multiple types of items (think Strategy, Theme, Initiative, Enhancement, etc.) over a certain number of months you specify on the top right text field.
+This is an Rally SDK app that graphs the feature throughput of multiple types of items (think Strategy, Theme, Initiative, Enhancement, etc.) over a certain number of months you specify on the top right text field.
 
 Hovering over a colored bar will show the name of the type, its XY position, and percentage completed. Clicking on a colored bar will show a list of types on the bottom of the frame. You can also specify bars to be stacked which combines the values into month increments (you can still individually click on each color and get a different list).
 
@@ -32,10 +32,4 @@ If you want to include more Javascript files, simply add them to the FeatureThro
 
 ##License
 
-Copyright (c) 2002-2012 Rally Software Development Corp. All Rights Reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+rally-feature-throughput is released under the MIT license. See the file [LICENSE](https://raw.github.com/osulehria/rally-feature-throughput/master/LICENSE) for the full text.
