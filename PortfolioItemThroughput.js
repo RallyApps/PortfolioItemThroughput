@@ -1,4 +1,4 @@
-function FeatureThroughput() {
+function PortfolioItemThroughput() {
   var that = this;
   this.display = function(element) {
 	var DEFAULT_NUM_MONTHS = 6;
