@@ -32,4 +32,4 @@ If you want to include more Javascript files, simply add them to the FeatureThro
 
 ##License
 
-Feature Throughput is released under the MIT license. See the file [LICENSE](https://raw.github.com/osulehria/rally-feature-throughput/master/LICENSE) for the full text.
+PortfolioItem Throughput  is released under the MIT license. See the file [LICENSE](https://raw.github.com/osulehria/rally-feature-throughput/master/LICENSE) for the full text.
