@@ -1,4 +1,4 @@
-rally-feature-throughput
+Feature Throughput
 ========================
 
 ![Alt text](https://raw.github.com/osulehria/rally-feature-throughput/master/deploy/screenshot.png)
@@ -32,4 +32,4 @@ If you want to include more Javascript files, simply add them to the FeatureThro
 
 ##License
 
-rally-feature-throughput is released under the MIT license. See the file [LICENSE](https://raw.github.com/osulehria/rally-feature-throughput/master/LICENSE) for the full text.
+Feature Throughput is released under the MIT license. See the file [LICENSE](https://raw.github.com/osulehria/rally-feature-throughput/master/LICENSE) for the full text.
