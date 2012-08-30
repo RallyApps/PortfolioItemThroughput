@@ -1,4 +1,4 @@
-Feature Throughput
+Portfolio Item Throughput
 ========================
 
 ![Alt text](https://raw.github.com/osulehria/rally-feature-throughput/master/deploy/screenshot.png)
